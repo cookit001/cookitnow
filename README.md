@@ -1,4 +1,4 @@
-# 🍳 Cookly AI V2 — The Smart Kitchen OS  
+# 🍳 Cook AI V2 — The Smart Kitchen OS  
 
 > “Cook isn’t just an AI recipe app — it’s your personal kitchen companion that talks, listens, learns, and connects your cooking world.”
 
@@ -21,7 +21,7 @@ Cook will see, hear, and think with you — helping you plan meals, manage ingre
 Cookly learns your tastes, restrictions, and cooking style.  
 It generates personalized meal plans, suggests improvements, and evolves with every dish.
 
-### 🎙️ 2. Voice Assistant Mode (“Hey Cookly…”)  
+### 🎙️ 2. Voice Assistant Mode (“Hey Cook…”)  
 Full hands-free experience:
 - Ask for recipes while chopping  
 - Get substitutions when missing ingredients  
