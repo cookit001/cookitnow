@@ -1,0 +1,8 @@
+{
+  "name": "Cook",
+  "description": "Your personal Cook AI cooking assistant. Chat to get recipes, generate dynamic meal plans, organize your ingredients with an intelligent shopping list, and follow along with interactive cooking modes for a seamless kitchen experience.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
